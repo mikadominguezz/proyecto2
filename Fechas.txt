@@ -1,0 +1,41 @@
+	Hito 1: 19 de mayo (Semana 9) / Introducción.
+● Definición del problema
+● Investigación de antecedentes
+● Especificación de requisitos
+	
+	Entregables:
+● Memoria V01
+● Plan de trabajo
+● Presentación oral de lo avanzado
+
+	Hito 2: 2 de junio (Semana 11) / Solución seleccionada
+● Generación, evaluación y selección de la solución
+	
+	Entregables:
+● Memoria V02
+● Plan de trabajo
+● Infografía + presentación oral
+	
+	Hito 3: 16 de junio (Semana 13) / Solución prototipada
+● Desarrollo y prototipo de la solución
+● Prueba de la solución (proceso de iteración)
+	
+	Entregables:
+● Memoria V03
+● Presentación oral de lo avanzado (se sugiere acompañarlo de la infografía)
+● Repositorio en GitHub
+
+	Entrega final: Semana 16, del lunes 3 al viernes 7 de julio / Solución construida y
+lista para presentar
+● Comunicar los resultados
+
+	Entregables: Fecha
+● Memoria Versión final. 03-07-2022
+● Planificación del proyecto. 03-07-2022
+● Presentación oral + PPT de la solución. 04-07-2022
+● Prototipo de la solución. 07-07-2022
+● Repositorio en GitHub. 07-07-2022
+
+	En cada entrega de la memoria pueden cambiar las secciones entregadas
+previamente, haciendo una breve referencia a lo que cambiaron y por qué lo
+tuvieron que cambiar.
